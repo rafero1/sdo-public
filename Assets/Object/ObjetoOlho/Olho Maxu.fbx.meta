@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 439e6ddeb9f2a42b59a445027580fb60
+timeCreated: 1438610470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cornea Transparente
+    100002: Coroide Vermelha
+    100004: Cristalino Transparente
+    100006: Globo Branco
+    100008: 'Iris '
+    100010: Nervo
+    100012: Nervo 2
+    100014: Nervo 3
+    100016: Nervo 4
+    100018: //RootNode
+    100020: Point
+    100022: Retina Amarela
+    400000: Cornea Transparente
+    400002: Coroide Vermelha
+    400004: Cristalino Transparente
+    400006: Globo Branco
+    400008: 'Iris '
+    400010: Nervo
+    400012: Nervo 2
+    400014: Nervo 3
+    400016: Nervo 4
+    400018: //RootNode
+    400020: Point
+    400022: Retina Amarela
+    2300000: Cornea Transparente
+    2300002: Coroide Vermelha
+    2300004: Cristalino Transparente
+    2300006: Globo Branco
+    2300008: 'Iris '
+    2300010: Nervo
+    2300012: Nervo 2
+    2300014: Nervo 3
+    2300016: Nervo 4
+    2300018: Retina Amarela
+    3300000: Cornea Transparente
+    3300002: Coroide Vermelha
+    3300004: Cristalino Transparente
+    3300006: Globo Branco
+    3300008: 'Iris '
+    3300010: Nervo
+    3300012: Nervo 2
+    3300014: Nervo 3
+    3300016: Nervo 4
+    3300018: Retina Amarela
+    4300000: Retina Amarela
+    4300002: Coroide Vermelha
+    4300004: 'Iris '
+    4300006: Cornea Transparente
+    4300008: Globo Branco
+    4300010: Cristalino Transparente
+    4300012: Nervo
+    4300014: Nervo 4
+    4300016: Nervo 3
+    4300018: Nervo 2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

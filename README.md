@@ -1,2 +1,2 @@
 # sdo-public
-eye disease simulator
+Simulador de Doenças Oculáres
