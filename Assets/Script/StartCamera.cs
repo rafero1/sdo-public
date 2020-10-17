@@ -23,12 +23,10 @@ public class StartCamera : StartCameraScript
     private Quaternion baseRotation;
     private Vector3 baseScale;
 
-	public Material renderTexture;
-
 	public string camName;
 	public GameObject textureCam;
 	public GameObject imageDisfigured;
-	public Image panelUI;
+	public GameObject panelUI;
 	public bool enableCardboard;
 
 	IEnumerator LoadDevice(string newDevice, bool enabled)
@@ -56,10 +54,9 @@ public class StartCamera : StartCameraScript
         baseRotation = transform.rotation;
         baseScale = textureCam.transform.localScale;
 
-        webCamTexture = new WebCamTexture();
+        webCamTexture = new WebCamTexture(Screen.width/2, Screen.height/2, 30);
+		webCamTexture.filterMode = FilterMode.Trilinear;
 		textureCam.GetComponent<Renderer>().material.mainTexture = webCamTexture;
-		// renderTexture.mainTexture = webCamTexture;
-		// Camera.main.targetTexture = (RenderTexture)renderTexture.mainTexture;
 
 		if (imageDisfigured != null)
 		{
